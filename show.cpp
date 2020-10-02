@@ -14,7 +14,7 @@ class person
         void setData()
         {
             cout << "\nEnter your age ";
-            cin >> age;
+            cin >> age;//for age input
             cout << "Enter your Gender(M,m/F,f) : ";
             cin>>gender;
 	        cout<<"Enter your Profession : ";
