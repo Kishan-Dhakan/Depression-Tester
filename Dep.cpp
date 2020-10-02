@@ -13,7 +13,7 @@ fout.open( "goldep.txt", ios::out );
 
 int a[18], i;
 int sum = 0;
-printf("\nThe following questions make up the standardised Goldberg\'s test.");
+printf("\nThe following questions make up the standardised Goldberg\'s test.");//This will print the given statement
 printf("\nThese are your options for each question: ");
 printf("\n");
 printf("\n\t\t1) Not at all."); //Standard replies, first option = 0, second =1, so on.
