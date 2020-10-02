@@ -40,7 +40,7 @@ void Recomm()
     else if(sum>=22 && sum<36)
     {
         system("clear");
-        cout<<"\nYou feel more than just blue. You are on the starting stages of Depression and your symptoms can go on for days and are noticeable enough to interfere with your usual activities.";
+        cout<<"\nYou feel more than just blue. You are on the starting stages of Depression and your symptoms can go on for days and are noticeable enough to interfere with your usual activities.";//This will print the given statement
         cout<<"\nMaintaining a healthy body and mind would help you relax in times of anxiety. Try to get enough delay and impart important nutrients in your diet.";
         cout<<"\n\nTrying out Yoga poses from this website can help.";
         cout<<"\n\n";
